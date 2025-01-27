@@ -2,10 +2,11 @@
 	"schemaVersion": 1,
 	"id": "create-colored",
 	"version": "${version}",
-	"name": "Create: colored",
-	"description": "Bringing color to everyone around the world!.",
+	"name": "Create: Recolored",
+	"description": "Bringing color to every pipe (almost) in Create!.",
 	"authors": [
-		"AzaSad"
+		"AzaSad",
+		"timmy-time"
 	],
 	"contact": {
 		"issues": "https://github.com/AzaSad/Create-colored/issues",
